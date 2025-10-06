@@ -1,5 +1,5 @@
 Daftar kontribusi: 
  - [ Septi] Anggota 1 menambahkan satu baris teks di 
 sini. 
-- [Hanifah] Anggota 2 menambahkan satu baris teks di 
+- [Hanifah ] Anggota 2 menambahkan satu baris teks di 
 sini. 
