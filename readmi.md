@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
  
 ## Anggota Kelompok 
 - Septiana Putri
-- Hanifah Nurul Aini 
+- Hanifah Nurul Aini
